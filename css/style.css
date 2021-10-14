@@ -1,0 +1,96 @@
+body {
+    background-color: #EFF9FD;
+    text-align: justify;
+}
+
+h1 {
+    color: #67A1BD;
+    margin: 75px auto 20px;
+}
+
+h2 {
+    color: #67A1BD;
+}
+
+h5 {
+    color: #67A1BD;
+}
+
+td {
+    padding-right: 50px;
+    border: 2px;
+}
+
+.nav-link {
+    color: #67A1BD;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
+
+.coming-soon {
+    position: relative;
+    text-align: center;
+    top: 50%;
+}
+
+.html-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.css-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+  
+.java-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+  
+.python-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    margin: 30px auto;
+    text-align: left;
+    line-height: 2; 
+}
+
+.fb-img {
+    height: 30px;
+    width: 30px;
+}
+
+.ig-img {
+    height: 30px;
+    width: 30px;
+}
+
+.li-img {
+    height: 30px;
+    width: 30px;
+}
+
+.skills {
+    margin-bottom: 50px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.navbar {
+    border: 2px;
+}
+
+
+
